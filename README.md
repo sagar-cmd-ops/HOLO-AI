@@ -37,6 +37,11 @@ HOLO-AI introduces a holographic-style AI assistant represented through a digita
 - Voice and gesture interaction
 - Physical holographic projection
 
+## Google Colab Demo
+
+https://colab.research.google.com/drive/1Ii8CpNHl5dgHX1UetcTC-sNZj1V636a2?usp=sharing
+<img width="1205" height="62" alt="image" src="https://github.com/user-attachments/assets/025de853-47a7-4366-b913-7649d0466f4e" />
+
 ---
 
 ## 👥 Team – Quad Core
